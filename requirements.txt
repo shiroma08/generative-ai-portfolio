@@ -1,0 +1,19 @@
+# Tested on Google Colab (Python 3.13, CUDA T4 GPU).
+# Colab preinstalls torch, transformers, sentence-transformers, pandas and matplotlib;
+# each notebook installs the remaining packages in its first code cell.
+torch>=2.14
+transformers>=5.22
+diffusers>=0.42
+accelerate
+sentence-transformers
+peft
+bitsandbytes
+datasets
+faiss-cpu
+langchain-community
+langchain-text-splitters
+gradio>=6.31
+openpyxl
+opencv-python
+pandas
+matplotlib
