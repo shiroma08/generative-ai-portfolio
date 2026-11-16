@@ -18,7 +18,7 @@ Five pieces of work built with open-weight models on Google Colab (free T4 GPU),
 | [`docs/portfolio_overview.md`](docs/portfolio_overview.md) | Summary of Tasks 1–4, how the models work, references | |
 | [`MODEL_CARD.md`](MODEL_CARD.md) | Intended use, limits, evaluation and licences of the assistant | |
 | [`INCIDENT_RESPONSE.md`](INCIDENT_RESPONSE.md) | What happens when the assistant gives a harmful or wrong answer | |
-
+| [Responsible-deployment report](TerraFlask_Responsible_Deployment_Report_converted.pdf) | 1,362-word report covering the seven areas in the brief (also in [Word](TerraFlask_Responsible_Deployment_Report.docx)) | |
 ## The artefact: TerraFlask support assistant
 
 A retrieval-augmented assistant that answers customer questions only from TerraFlask's published documents, with safeguards before and after generation.
